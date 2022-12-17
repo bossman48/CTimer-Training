@@ -1,2 +1,2 @@
-# CTimer-Training
-This repo contains CTimer-Training
+# KTimer-Training
+This repo contains KTimer-Training
